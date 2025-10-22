@@ -3,8 +3,6 @@ i’m **Semmy** i build stuff for the web. mostly focused on making digital expe
 
 kinda a jack-of-all-trades. I help brands pull off things they didn’t even know were possible.  
 
-been spending some time messing around with [**Cybrance**](https://cybrance.nl) a bot hosting platform i’m building whenever i feel like it.
-
 🛠️ usually messing around with:  
 - next.js / react / node  
 - random backend magic  
